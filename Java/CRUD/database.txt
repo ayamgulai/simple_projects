@@ -4,7 +4,7 @@ purcell_2009_1,2009,purcell,wiley,calculus
 faqihza_2019_1,2019,faqihza,gramedia,belajar C++
 faqihza_2019_2,2019,faqihza,gramedia,belajar python
 faqihza_2019_3,2019,faqihza,gramedia,belajar Java
-samuel_2023_1,2023,samuel,gramedia,berang-berang
+noic_2023_1,2023,hevy,gramedia,berang-berang
 faqihza_2019_4,2019,faqihza,gramedia,mengejar kucing
 kupik_2023_1,2023,kupik,kupik Book,Emosi Manusia
-samuel_2023_2,2023,samuel,gramedia,Kerang ajaib
+cashim,2023,hevy,gramedia,Kerang ajaib
